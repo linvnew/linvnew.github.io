@@ -7,8 +7,8 @@ http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
 http://cctvcnch5ca.v.wscdns.com/live/cctv3_2/10793.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV4HD.png" group-title="央视频道",CCTV4
 http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV5HD.png" group-title="央视频道",CCTV5
-http://cctvcnch5ca.v.wscdns.com/live/cctvsport_2/10793.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5体育" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV5HD.png" group-title="央视频道",CCTV5
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV5+HD.png" group-title="央视频道",CCTV5+
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV6HD.png" group-title="央视频道",CCTV6
