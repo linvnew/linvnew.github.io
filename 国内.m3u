@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV1HD.png" group-title="央视频道",CCTV1
+http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV2HD.png" group-title="央视频道",CCTV2
+http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV3HD.png" group-title="央视频道",CCTV3
+http://cctvcnch5ca.v.wscdns.com/live/cctv3_2/10793.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV4HD.png" group-title="央视频道",CCTV4
+http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV5HD.png" group-title="央视频道",CCTV5
+http://cctvcnch5ca.v.wscdns.com/live/cctvsport_2/10793.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV5+HD.png" group-title="央视频道",CCTV5+
+http://cctvcnch5ca.v.wscdns.com/live/cctvtiyu_2/10793.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV6HD.png" group-title="央视频道",CCTV6
+http://cctvcnch5ca.v.wscdns.com/live/cctv6_2/10793.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV7HD.png" group-title="央视频道",CCTV7
+http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV8HD.png" group-title="央视频道",CCTV8
+http://cctvcnch5ca.v.wscdns.com/live/cctv8_2/10793.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV9HD.png" group-title="央视频道",CCTV9
+http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV10HD.png" group-title="央视频道",CCTV10
+http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV11HD.png" group-title="央视频道",CCTV11
+http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV12HD.png" group-title="央视频道",CCTV12
+http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV13HD.png" group-title="央视频道",CCTV13
+http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV14HD.png" group-title="央视频道",CCTV14
+http://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/10793.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV15HD.png" group-title="央视频道",CCTV15
+http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://kimcrowing.github.io/iptv/cctv/CCTV17HD.png" group-title="央视频道",CCTV17
+http://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/beijingHD.png" group-title="卫视频道",北京卫视HD
+http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/dongfangHD.png" group-title="卫视频道",东方卫视HD
+http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/tianjinHD.png" group-title="卫视频道",天津卫视HD
+http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/hunanHD.png" group-title="卫视频道",湖南卫视HD
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/jiangsuHD.png" group-title="卫视频道",江苏卫视HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://kimcrowing.github.io/iptv/statetv/zhejiangHD.png" group-title="卫视频道",浙江卫视HD
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
